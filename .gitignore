@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+.idea/
+.vscode/
+.env
+*.key
+node_modules/
+~$*
+Thumbs.db
